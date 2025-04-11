@@ -4,7 +4,10 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F______&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 ______입니다!
+### 안녕하세요. 신입 백엔드 개발자 문지환입니다.
+### 탄탄한 기초를 가지고 새로운 기술을 받아들이는 것에 두려움이 없는 개발자가 되기 위해 노력 중입니다.
+### 흐름을 쉽게 파악할 수 있는 코드가 좋은 코드라고 생각합니다.
+### 이용자가 불편함 없이 사용할 수 있는 서비스를 개발하고 싶습니다.
 
 <!-- Body -->
 
